@@ -4,8 +4,8 @@ name: intuit
 description: "Use when the user wants to understand a concept, technology, mechanism, algorithm, or idea: explain what it is, why it exists, how it works, or build an intuitive mental model. Designed for intelligent non-specialists who want a concise, accurate explanation rather than a long lecture."
 license: MIT
 metadata:
-version: "1.0.0"
-----------------
+  version: "1.0.0"
+---
 
 # Intuit
 
